@@ -16,6 +16,7 @@ public class Wrapper {
 		Long l = 100000L;
 		
 		System.out.println(b.byteValue());  // valor primitivo que está dentro da classe
+		System.out.println(s.shortValue());
 		System.out.println(i);				// imprime 10000 em Integer
 		System.out.println(i2.toString());  // imprime a string '10000'
 		System.out.println(i3);
